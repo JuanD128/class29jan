@@ -1,0 +1,21 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+h1 {color: White;
+background-color: black
+} 
+h2 {color: white;
+background: black} 
+
+p{color: black; 
+text-align: left}
+
+.Main {text-align: center} 
+
+li{color: black} 
+.Bike-Type {color: black}
+#Song-Title {text-align: center}
+#Bicyclete-Song {text-align: center}
